@@ -1,4 +1,5 @@
 Weekly American Price with RNN Models
+
 In this project we train 3 models:
 
 1)Simple RNN
